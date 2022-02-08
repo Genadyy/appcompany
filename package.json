@@ -25,7 +25,7 @@
     "web-vitals": "^1.1.2"
   },
   "devDependencies": {
-    "concurrently": "^6.2.0",
+    "concurrently": "^6.5.1",
     "gh-pages": "^3.2.3",
     "nodemon": "^2.0.12",
     "sqlite3": "^5.0.2"
@@ -60,5 +60,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Genadyy/appcompany.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Genadyy/appcompany/issues"
   }
 }

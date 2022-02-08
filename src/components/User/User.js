@@ -14,7 +14,7 @@ const User = (props) => {
       <div className={styles.user_content}>
         <ul className={styles.user_nav}>
           <li className={styles.user_link}>
-            <NavLink to="/" exact activeClassName={styles.active}>
+            <NavLink to="/appcompany" exact activeClassName={styles.active}>
               Main page
             </NavLink>
           </li>

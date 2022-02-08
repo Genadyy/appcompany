@@ -128,7 +128,7 @@ const Statistic = (props) => {
       <div className={styles.statistic}>
         <ul className={styles.statistic_nav}>
           <li className={styles.statistic_link}>
-            <NavLink to="/" exact activeClassName={styles.active}>
+            <NavLink to="/appcompany" exact activeClassName={styles.active}>
               Main page
             </NavLink>
           </li>

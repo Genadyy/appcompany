@@ -191,7 +191,7 @@ class App extends React.Component {
       <BrowserRouter>
         <div className="App">
           <Switch>
-            <Route exact path="/" component={Main} />
+            <Route exact path="/appcompany" component={Main} />
 
             <Route
               path="/users_statistic"
