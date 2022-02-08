@@ -34,7 +34,7 @@
   "prox": "http://localhost:4001",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "build": "node ./buildScripts",
     "build-front": "react-scripts build",
     "eject": "react-scripts eject",
