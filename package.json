@@ -35,7 +35,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
-    "build": "node ./buildScripts",
+    "build": "concurrently \"npm run build-front\" \"node ./buildScripts\" --kill-others --kill-others-on-fail",
     "build-front": "react-scripts build",
     "eject": "react-scripts eject",
     "start-server": "nodemon server/server.js --watch server/*",
