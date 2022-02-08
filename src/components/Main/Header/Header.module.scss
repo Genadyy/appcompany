@@ -1,0 +1,62 @@
+.header{
+    width: 100%;
+    height: 655px;
+    margin: 0 auto; 
+    padding: 24px 0 0 130px;
+    background-image: url(./../../../images/header_bg.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color:#fff;
+    position: relative;
+    .logo{
+      font-size: 40px;
+      font-weight: 400;  
+    } 
+    h1{
+      margin: 48px 0 24px 0;
+      font-size: 48px;
+      font-weight: 400;
+      & span{
+        font-weight: 700;
+      }
+    }
+    p{
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 28.4px;
+    }
+    .btn{
+      margin-top: 32px;
+      padding: 17px 32px;
+      background-color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 16px;
+      color: #3A80BA;
+    }
+    &_pic{
+      width: 276px;
+      height: 558px;
+      position: absolute;
+      top: 76px;
+      right: 236px;
+      z-index: 10;
+    }
+    &_shadow{
+      width: 380px;
+      height: 50px;
+      position: absolute;
+      top: 605px;
+      right: 185px;
+      z-index: 5;
+    }
+  }
+  
+  
+  
+  
+  
+  
+ 
