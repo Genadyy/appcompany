@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/appcompany/static/css/main.bd15e8ee.chunk.css",
+    "main.js": "/appcompany/static/js/main.9777d03e.chunk.js",
+    "main.js.map": "/appcompany/static/js/main.9777d03e.chunk.js.map",
+    "runtime-main.js": "/appcompany/static/js/runtime-main.4a1e1897.js",
+    "runtime-main.js.map": "/appcompany/static/js/runtime-main.4a1e1897.js.map",
+    "static/js/2.ab00ee0d.chunk.js": "/appcompany/static/js/2.ab00ee0d.chunk.js",
+    "static/js/2.ab00ee0d.chunk.js.map": "/appcompany/static/js/2.ab00ee0d.chunk.js.map",
+    "index.html": "/appcompany/index.html",
+    "static/css/main.bd15e8ee.chunk.css.map": "/appcompany/static/css/main.bd15e8ee.chunk.css.map",
+    "static/js/2.ab00ee0d.chunk.js.LICENSE.txt": "/appcompany/static/js/2.ab00ee0d.chunk.js.LICENSE.txt",
+    "static/media/design.02fb1a1c.png": "/appcompany/static/media/design.02fb1a1c.png",
+    "static/media/Footer.module.scss": "/appcompany/static/media/footer.685e1462.png",
+    "static/media/Header.module.scss": "/appcompany/static/media/header_bg.6f0f013e.png",
+    "static/media/iPhoneX.3310560e.png": "/appcompany/static/media/iPhoneX.3310560e.png",
+    "static/media/secure.7bfb373f.png": "/appcompany/static/media/secure.7bfb373f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a1e1897.js",
+    "static/js/2.ab00ee0d.chunk.js",
+    "static/css/main.bd15e8ee.chunk.css",
+    "static/js/main.9777d03e.chunk.js"
+  ]
+}
