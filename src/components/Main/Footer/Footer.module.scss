@@ -18,7 +18,7 @@
         justify-content: space-between;
         .footer_input{
             width: 60%;
-            height: 64px;
+            height: 100%;
             border: none;
             color:#B9B9B9;
             font-family: 'Montserrat', sans-serif;
@@ -28,6 +28,7 @@
         .footer_btn{
             width: 176px;
             height: 56px;
+            margin-left: 380px;
             border-radius: 8px;
             font-size: 16px;
             font-family: 'Montserrat', sans-serif;
