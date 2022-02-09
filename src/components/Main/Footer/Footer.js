@@ -7,7 +7,10 @@ const Footer = () => {
     <div className="container">
       <div className={styles.footer}>
         <div className={styles.footer_form}>
-         
+          <input
+            className={styles.footer_input}
+            placeholder="Enter your email"
+          ></input>
           <button className={styles.footer_btn}>Subscribe</button>
         </div>
         <FooterText />
